@@ -1,0 +1,97 @@
+@import url(https://fonts.google.com/specimen/Young+Serif);
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+   
+    max-width: 80vw;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+    font-family: 'specimen',sans-serif;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.topleft{
+    width: 50%;
+    height: 125px;
+}
+.topright{
+    width: 50%;
+    height: 125px;
+}
+
+.section1{
+    min-height: 90vh;
+    
+}
+.section1 .h1{
+    font-size: 2rem;
+}
+.logo{
+    font-size: 1.3rem;
+}
+
+.image-4{
+    width: 200px;
+    border-radius: 200px;
+    margin-top: 10px;
+    
+
+}
+.topright .image-5{
+    margin-top: 10px;
+    width: 600px;
+    background-color: white;
+    border-radius: 200px;
+}
+
+.section2 .h1{
+    font-size: 2rem;
+}
+
+.section2{
+    padding-left: 23px;
+    padding-right: 23px;
+}
+.section2 p{
+    padding: 0 8vw;
+    text-align: center;
+}
+
+.box {
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 20vw; 
+    border: 2px solid black;
+    text-align: center;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box ul li{
+    margin: 12px 2px;
+}
+
+.tr-1{
+    
+    margin-left: 120px;
+    margin-top: 10px;
+    width: 150px;
+    border-radius: 200px;
+    border-color: rgb(0, 0, 0);
+}
+    
+
+.footer-1 {
+    
+    text-align: center; 
+    color: rgb(182, 11, 116);
+    
+}
